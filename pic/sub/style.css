@@ -1,0 +1,75 @@
+TD {
+	FONT-SIZE: 8px; FONT-FAMILY: MS Sans Serif
+}
+BODY {
+	FONT-SIZE: 8px; FONT-FAMILY: MS Sans Serif
+}
+P {
+	FONT-SIZE: 8px; FONT-FAMILY: MS Sans Serif
+}
+DIV {
+	FONT-SIZE: 8px; FONT-FAMILY: MS Sans Serif
+}
+INPUT {
+	FONT-SIZE: 8px; FONT-FAMILY: MS Sans Serif
+}
+TEXTAREA {
+	FONT-SIZE: 8px; FONT-FAMILY: MS Sans Serif
+}
+FORM {
+	FONT-SIZE: 8px; FONT-FAMILY: MS Sans Serif
+}
+SELECT {
+	FONT-SIZE: 8px; FONT-FAMILY: MS Sans Serif
+}
+A:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 8px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #218cc7; TEXT-DECORATION: none; MS: 
+}
+A:active {
+	FONT-WEIGHT: normal; FONT-SIZE: 8px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #218cc7; FONT-FAMILY: MS Sans Serif; TEXT-DECORATION: underline
+}
+A:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 8px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #218cc7; FONT-FAMILY: MS Sans Serif; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 8px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #c55e36; FONT-FAMILY: MS Sans Serif; TEXT-DECORATION: underline
+}
+.title {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #215dc6; FONT-FAMILY: MS Sans Serif; TEXT-DECORATION: none
+}
+.content {
+	FONT-SIZE: 8px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #218cc7; FONT-FAMILY: MS Sans Serif
+}
+.storytitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 8px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #d26400; FONT-FAMILY: MS Sans Serif; TEXT-DECORATION: none
+}
+.storycat {
+	FONT-WEIGHT: bold; FONT-SIZE: 8px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #215dc6; FONT-FAMILY: MS Sans Serif; TEXT-DECORATION: underline
+}
+.boxtitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 8px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #218cc7; FONT-FAMILY: MS Sans Serif; TEXT-DECORATION: none
+}
+.boxcontent {
+	FONT-SIZE: 8px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #218cc7; FONT-FAMILY: MS Sans Serif
+}
+.option {
+	FONT-WEIGHT: bold; FONT-SIZE: 8px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #218cc7; FONT-FAMILY: MS Sans Serif; TEXT-DECORATION: none
+}
+.tiny {
+	FONT-WEIGHT: normal; FONT-SIZE: 8px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #215dc6; FONT-FAMILY: MS Sans Serif; TEXT-DECORATION: none
+}
+.title1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #215dc6; FONT-FAMILY: Simplified Arabic, Verdana, Helvetica; TEXT-DECORATION: none
+}
+.content1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #218cc7; FONT-FAMILY: Simplified Arabic, Verdana, Helvetica
+}
+UNKNOWN {
+	
+}
+BODY {
+	SCROLLBAR-FACE-COLOR: #d3edff; SCROLLBAR-HIGHLIGHT-COLOR: #48a8e9; SCROLLBAR-SHADOW-COLOR: #d3edff; SCROLLBAR-3DLIGHT-COLOR: #d3edff; SCROLLBAR-ARROW-COLOR: #48a8e9; SCROLLBAR-TRACK-COLOR: #d3edff; SCROLLBAR-DARKSHADOW-COLOR: #48a8e9
+}
+UNKNOWN {
+	
+}
